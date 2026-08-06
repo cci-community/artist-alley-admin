@@ -1,0 +1,5 @@
+body{margin:0;font-family:Arial;display:flex;background:#111;color:#eee}
+aside{width:220px;background:#1b1b1b;padding:20px;height:100vh}
+main{flex:1;padding:20px}.cards{display:flex;gap:16px}.card{background:#222;padding:16px;border-radius:10px}
+table{width:100%;margin-top:20px;border-collapse:collapse}th,td{padding:10px;border-bottom:1px solid #333}
+input{padding:10px;width:300px;border-radius:8px}
